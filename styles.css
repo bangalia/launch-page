@@ -1,0 +1,19 @@
+body {
+  color:red;
+}
+
+.navbar {
+  padding 1rem;
+}
+
+.btn-primary:hover {
+  background-color: red;
+  color: white;
+}
+
+.hero-background-img {
+  background-image: url("groceries.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
